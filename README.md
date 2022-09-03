@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Foody: Food Delivery web App
 
 > Description the project.
-
+The code has been writen under MicroverseInc React-Redux linters 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- Redux
+- Tailwind
+- Firebase
 
 ## Live Demo (if available)
 
@@ -64,9 +65,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- MicroverseInc
 
 ## 📝 License
 

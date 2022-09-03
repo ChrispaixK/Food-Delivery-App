@@ -10,6 +10,7 @@
 - React
 - Redux
 - Tailwind
+- Firebase
 
 ## Live Demo (if available)
 

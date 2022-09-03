@@ -3,7 +3,7 @@
 # Foody: Food Delivery web App
 
 > Description the project.
-
+The code has been writen under MicroverseInc React-Redux linters 
 
 ## Built With
 
